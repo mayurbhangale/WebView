@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mayur/AndroidStudioProjects/WebviewDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/mayur/AndroidStudioProjects/WebviewDemo/app/build/intermediates/pre-dexed/debug/classes-08af2678862acdb0211062f1768078d28333628d.jar" />
+    </item>
+    <item
+        jar="/home/mayur/AndroidStudioProjects/WebviewDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/mayur/AndroidStudioProjects/WebviewDemo/app/build/intermediates/pre-dexed/debug/classes-fc2c0da28c400bc2e12c032d98f527a12b39066b.jar" />
+    </item>
+    <item
+        jar="/home/mayur/AndroidStudioProjects/WebviewDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/mayur/AndroidStudioProjects/WebviewDemo/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-cf3476548b7ff5252f7751320fc76015b4cce82b.jar" />
+    </item>
+    <item
+        jar="/home/mayur/adt-bundle-linux-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/mayur/AndroidStudioProjects/WebviewDemo/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-470cf7a6aaf2568b28f6f02658ca677c62060d30.jar" />
+    </item>
+
+</items>
